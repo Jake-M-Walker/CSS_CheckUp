@@ -1,0 +1,15 @@
+.class-1{
+    margin: 5px 5px 5px 15px;
+    background-color: orangered;
+    border-style: solid;
+    border-color: white;
+    padding: 5px 5px 5px 5px;
+    width: 300px;
+    height: 400px;
+    font: "Times New Roman";
+}
+#class1{
+    font-style: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-color: black;
+}
